@@ -1,1 +1,1 @@
-# BIGFOOT-Connect
+# BIGFOOT Connect
